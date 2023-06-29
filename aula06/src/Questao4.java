@@ -19,7 +19,7 @@ public class Questao4 {
 
 /*
  * CANDIDATE:         OUTPUT:
- * 
+ 
  * x = x + 3;          54 6
  * x = x + 6;          60 10
  * x = x + 2;          45 6
